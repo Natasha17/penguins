@@ -1,0 +1,32 @@
+h1 {
+font-family: Arial;
+font-weight: bold;
+text-align: center;
+font-size: 60px;
+color: #FF3399;
+}
+
+p1 {
+font-family: Verdana;
+color: #3300FF;
+font-size: 32px;
+}
+
+p2 {
+font-family: Verdana;
+color: #00FFFF;
+font-size: 32px;
+}
+
+p3 {
+font-family: Verdana;
+color: #00FF66;
+font-size: 32px;
+
+}
+
+img {
+height: 360px;
+width: 670px;
+border: dashed;
+}
